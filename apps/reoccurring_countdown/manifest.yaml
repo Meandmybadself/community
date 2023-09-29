@@ -1,0 +1,8 @@
+---
+id: reoccurring_countdown
+name: Reoccurring Countdown
+summary: See the time until a reoccuring event occurs
+desc: See the time until a reoccuring event occurs
+author: Jeffery Bennett
+fileName: reoccurring_countdown.star
+packageName: reoccurring_countdown
